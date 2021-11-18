@@ -51,7 +51,7 @@ ffbuild_dockerbuild() {
 }
 
 ffbuild_configure() {
-    echo --enable-libplacebo
+    #echo --enable-libplacebo
 }
 
 ffbuild_unconfigure() {
