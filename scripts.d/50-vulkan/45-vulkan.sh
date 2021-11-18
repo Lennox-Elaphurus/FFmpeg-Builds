@@ -30,8 +30,7 @@ EOF
 }
 
 ffbuild_configure() {
-    #echo --enable-vulkan
-    echo " "
+    echo --enable-vulkan
 }
 
 ffbuild_unconfigure() {
